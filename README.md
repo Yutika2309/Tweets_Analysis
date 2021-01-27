@@ -2,8 +2,7 @@
 
 This is a dashboard which was created using Streamlit for Sentiment Analysis of US Airline Tweets.
 
-## Python version used in this project: 3.8.3
-Libraries used:
+## Libraries used:
 * Pandas -> 1.0.5
 * Numpy -> 1.18.5
 * Matplotlib -> 3.2.2

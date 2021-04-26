@@ -9,6 +9,7 @@ st.title("Sentiment Analysis")
 st.sidebar.title("Toolbar")
 
 st.markdown("## US Airlines Tweets")
+st.markdown("### To view the charts, navigate to the sidebar and untick "Hide"")
 st.sidebar.markdown("This app is a Streamlit Dashboard for Sentiment Analysis")
 
 

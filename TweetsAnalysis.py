@@ -14,7 +14,7 @@ st.sidebar.markdown("This app is a Streamlit Dashboard for Sentiment Analysis")
 
 @st.cache(persist=True)
 def load_data():
-    data = pd.read_csv("C:\\Users\\Yutika\\Downloads\\Tweets.csv")
+    data = pd.read_csv("Tweets.csv")
     data["tweet_created"] = pd.to_datetime(data["tweet_created"])
     return data
 

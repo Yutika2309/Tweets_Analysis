@@ -5,8 +5,11 @@ This project involved creating an interactive dashboard for the "US Airlines Twe
 This app was deployed via the library Streamlit which was also the means to define the GUI for this project. The interactive charts were made using the Plotly library. This project was a part of the Coursera Project Network and was completed side-by-side within a span of 2 hours.
 
 Note:
+
 • Tweets can be broken down as per the Airline company and you can compare the sentiments of tweets of two or more airlines.
+
 • All the sentiments could be viewed in the form of a Word Cloud as well.
+
 • Best viewed on a laptop, be sure to scroll down since all the outputs are produced in a vertical format. :)
 
 Link to the dashboard:

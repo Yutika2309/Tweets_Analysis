@@ -2,6 +2,9 @@
 
 This is a dashboard which was created using Streamlit for Sentiment Analysis of US Airline Tweets.
 
+Link to the dashboard:
+https://share.streamlit.io/yutika2309/tweets_analysis/main/TweetsAnalysis.py
+
 ## Libraries used:
 * Pandas -> 1.0.5
 * Numpy -> 1.18.5

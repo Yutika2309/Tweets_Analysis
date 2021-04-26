@@ -1,4 +1,8 @@
-# Tweets Analysis
+# Tweets Analysis:
+
+Link to the dashboard: https://share.streamlit.io/yutika2309/tweets_analysis/main/TweetsAnalysis.py
+
+# About:
 
 This project involved creating an interactive dashboard for the "US Airlines Tweets" dataset employing the concept of Natural Language Processing (NLP), thereby giving in-depth analyses of sentiments of the customers who travelled in the various American airlines.
 
@@ -11,9 +15,6 @@ Note:
 • All the sentiments could be viewed in the form of a Word Cloud as well.
 
 • Best viewed on a laptop, be sure to scroll down since all the outputs are produced in a vertical format. :)
-
-Link to the dashboard:
-https://share.streamlit.io/yutika2309/tweets_analysis/main/TweetsAnalysis.py
 
 ## Libraries used:
 * Pandas -> 1.0.5

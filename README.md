@@ -16,7 +16,7 @@ This app was deployed via the library Streamlit which was also the means to defi
 
 • Best viewed on a laptop, be sure to scroll down since all the outputs are produced in a vertical format. :)
 
-## Libraries used:
+# Libraries used:
 * Pandas -> 1.0.5
 * Numpy -> 1.18.5
 * Matplotlib -> 3.2.2

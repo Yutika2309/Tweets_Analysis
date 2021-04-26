@@ -10,7 +10,7 @@ This app was deployed via the library Streamlit which was also the means to defi
 
 **Note:**
 
-• Tweets can be broken down as per the Airline company and you can compare the sentiments of tweets of two or more airlines.
+• Tweets can be broken down as per the Airline company and you can compare the sentiments of tweets of two or more airlines simultaneously.
 
 • All the sentiments could be viewed in the form of a Word Cloud as well.
 

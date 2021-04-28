@@ -4,7 +4,7 @@ Link to the dashboard: https://share.streamlit.io/yutika2309/tweets_analysis/mai
 
 # About:
 
-This project involved creating an interactive dashboard for the "US Airlines Tweets" dataset employing the concept of Natural Language Processing (NLP), thereby giving in-depth analyses of sentiments of the customers who travelled in the various American airlines.
+This project involved creating an interactive dashboard for the "US Airlines Tweets" dataset employing the concept of Natural Language Processing (NLP), thereby giving in-depth analyses of sentiments of the passengers who travelled in the various American airlines.
 
 This app was deployed via the library Streamlit which was also the means to define the GUI for this project. The interactive charts were made using the Plotly library. This project was a part of the Coursera Project Network and was completed side-by-side within a span of 2 hours.
 
